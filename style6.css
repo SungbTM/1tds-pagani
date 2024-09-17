@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(135, 178, 253);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+table{
+    background-color: grey;
+    color:blue;
+    border: 6px solid black;
+    border-radius: 18px;
+    width: 90%;
+    margin: auto;
+    font-size: 24px;
+    text-align: center;
+
+}
+img{
+    width: 100px;
+    height: 130px;
+    
+}
+#linha1{
+    background-color: blue;
+    color: white;
+    font-size: 30px;
+
+}
+#linha1 {
+    border: 1px solid blue;
+    border-radius: 10px;
+
+}
+td{
+    border: 1px double blue;
+
+}
+.dadosimpares{
+    background-color: whitesmoke;
+
+}
+.dadospares{
+    background-color: grey;
+}
+h2{
+    font-size: 48px;
+    color: black;
+}
+#linha1{
+    background-color: blue;
+}
